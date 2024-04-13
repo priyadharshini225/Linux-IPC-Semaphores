@@ -1,5 +1,5 @@
-# Name: B KRISHNAKANTH
-# Register Number: 212223230109
+# Name: DHARSHAN D
+# Register Number: 212223230045
 
 # Linux-IPC-Semaphores
 
